@@ -1,14 +1,12 @@
 
 # Online e-commerce website 
-![e-commerce2](https://user-images.githubusercontent.com/52706075/199467478-0f5f19b3-bc5f-4683-895f-1d77bcb6354a.png)
+![e-commerce2 (2)](https://user-images.githubusercontent.com/52706075/199468768-ce611bd9-4e08-40da-8b10-3963c33954d6.png)
 
-![e-commerce3](https://user-images.githubusercontent.com/52706075/199467543-b1fbde50-7543-4453-8538-26f70a192e9b.png)
+![e-commerce3 (2)](https://user-images.githubusercontent.com/52706075/199468851-60601105-735e-46fb-9bb0-ed4e2d7ac828.png)
 
-![e-commerce1](https://user-images.githubusercontent.com/52706075/199467592-77d8a93a-3ff3-4460-b425-2038cd3ee558.png)
+![e-commerce1 (2)](https://user-images.githubusercontent.com/52706075/199468916-ac220e78-748b-40ae-921d-68b9da96218c.png)
 
-![e-commerce4](https://user-images.githubusercontent.com/52706075/199467636-02137257-0b60-4953-a6b7-d594c843fefe.png)
-
-
+![e-commerce4 (2)](https://user-images.githubusercontent.com/52706075/199468954-ab766351-e1f9-4e9a-9a87-cde7af1f79b6.png)
 
 ##### Here's features included in this project
 

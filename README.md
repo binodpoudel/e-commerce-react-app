@@ -1,8 +1,6 @@
 
 # Online e-commerce website 
-<<<<<<< HEAD
 
-=======
 ![e-commerce2 (2)](https://user-images.githubusercontent.com/52706075/199468768-ce611bd9-4e08-40da-8b10-3963c33954d6.png)
 
 ![e-commerce3 (2)](https://user-images.githubusercontent.com/52706075/199468851-60601105-735e-46fb-9bb0-ed4e2d7ac828.png)

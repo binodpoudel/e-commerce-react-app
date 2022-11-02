@@ -1,12 +1,6 @@
 
 # Online e-commerce website 
-e-commerce2.png
 
-e-commerce3.png
-
-e-commerce1.png
-
-e-commerce4.png
 
 ##### Here's features included in this project
 
@@ -41,3 +35,10 @@ npm install
 
 npm start
 
+
+
+JavaScript
+Material UI, Bootstrap
+React
+Hooks
+Redux

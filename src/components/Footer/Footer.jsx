@@ -81,7 +81,7 @@ function Footer() {
 
               <ListGroupItem className='ps-0 border-0 d-flex align-item-center gap-2'>
               <span><i class="ri-phone-line"></i></span>
-              <p>+4917676688107</p>
+              <p>+49(0)1796723519</p>
               </ListGroupItem>
 
               <ListGroupItem className='ps-0 border-0 d-flex align-item-center gap-2'>

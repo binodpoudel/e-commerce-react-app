@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import CommonSection from '../components/UI/CommonSection';
 import Helmet from './../components/Helmet/Helmet';
 import { Container, Row, Col } from 'reactstrap';

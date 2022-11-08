@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/e-commerce-react-app/static/css/main.6f29be0f.css",
-    "main.js": "/e-commerce-react-app/static/js/main.95176675.js",
+    "main.js": "/e-commerce-react-app/static/js/main.f136c98a.js",
     "static/media/single-sofa-01.jpg": "/e-commerce-react-app/static/media/single-sofa-01.db24b9feed7582c4e98d.jpg",
     "static/media/arm-chair-03.jpg": "/e-commerce-react-app/static/media/arm-chair-03.3249f382638c86196acd.jpg",
     "static/media/single-sofa-03.jpg": "/e-commerce-react-app/static/media/single-sofa-03.0d976c067034347df78d.jpg",
@@ -34,10 +34,10 @@
     "static/media/wireless-01.png": "/e-commerce-react-app/static/media/wireless-01.1a76d777727c50ca0294.png",
     "index.html": "/e-commerce-react-app/index.html",
     "main.6f29be0f.css.map": "/e-commerce-react-app/static/css/main.6f29be0f.css.map",
-    "main.95176675.js.map": "/e-commerce-react-app/static/js/main.95176675.js.map"
+    "main.f136c98a.js.map": "/e-commerce-react-app/static/js/main.f136c98a.js.map"
   },
   "entrypoints": [
     "static/css/main.6f29be0f.css",
-    "static/js/main.95176675.js"
+    "static/js/main.f136c98a.js"
   ]
 }
